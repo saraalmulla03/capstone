@@ -10,13 +10,22 @@ Mr. Medulla from Sky High
 Absent-minded professor
 Academically gifted in the sciences, but socially clueless & unaware of his surroundings
 
+*[Description from TVTropes.org](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentMindedProfessor)*
+
 *This Stock Character is a brilliant scientist but is very flighty, His mind tends to run a mile a minute, he can often struggle to hold a normal conversation, and it's typical for him to become so engrossed in his work that he loses track of just about everything else. Good thing he is good at what he does and often has perfect memory for scientific details or mathematical values.*
 
-[Description from TVTropes.org](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentMindedProfessor)
+What special features does it need? How will you construct it? 
 
+Outfit:
+- Loosely fitting, long lab coat (not well tailored) with long dangly sleeves
+- Collared shirt & plum-collared tie underneath
 
-What special features does it need? 
+Physical appearance:
+- Brain sticking out (scrap wire & LED cluster?), under a clear dome— lights up whenever he has an epiphany (LIGHT BULB)
+- Bigger head relative to body
 
-How will you construct it? 
+Accessories:
+- Comically large (70s), thick-lens glasses
+- Pipe that releases steam?
 
-Make a quick sketch and include it in your journal, along with a description.
+Sketch
