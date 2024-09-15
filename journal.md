@@ -4,7 +4,15 @@
 
 ## Inspiration: 
 Mr. Medulla from Sky High
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![YouTube video player](https://img.youtube.com/vi/RlYomXXCsZc/hqdefault.jpg)](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG)
+
+## Trope: 
+Absent-minded professor
+Academically gifted in the sciences, but socially clueless & unaware of his surroundings
+
+*This Stock Character is a brilliant scientist but is very flighty, His mind tends to run a mile a minute, he can often struggle to hold a normal conversation, and it's typical for him to become so engrossed in his work that he loses track of just about everything else. Good thing he is good at what he does and often has perfect memory for scientific details or mathematical values.*
+
+[Description from TVTropes.org](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentMindedProfessor)
 
 
 What special features does it need? 
